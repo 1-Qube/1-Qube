@@ -1,64 +1,24 @@
-<p align="center">
-  <img src="assets/hero.png" alt="snowden — 1-Qube" width="100%" />
-</p>
+**snowden** · student · [1-Qube](https://github.com/1-Qube)
 
-<p align="center">
-  <strong>snowden · student</strong><br />
-  A few repos that run: a document reader, Taraz company notes, a physics lab in the browser.<br /><br />
-  <a href="https://1-qube.github.io/1-Qube/">Interactive profile</a>
-  ·
-  <a href="https://github.com/1-Qube">GitHub</a>
-</p>
+I study, and some of the homework ended up as a repo. The ones worth opening: a document reader, notes on one company in Taraz, and a physics lab that runs in the browser.
 
-<p align="center">
-  <sub>The interactive site is served from <code>/docs</code>. Enable GitHub Pages (branch <code>main</code>, folder <code>/docs</code>) and it will be live at <a href="https://1-qube.github.io/1-Qube/">https://1-qube.github.io/1-Qube/</a>.</sub>
-</p>
+The longer version, with the project notes, is at [1-qube.github.io/1-Qube](https://1-qube.github.io/1-Qube/).
 
-## Focus
+## Repos
 
-Homework that turned into a repo. I am a student; the interesting files are a document reader, a narrow research app for Taraz, and a physics page I actually use.
-
-| Area | Now |
+| | |
 | --- | --- |
-| AI tools | Document reading, idea stress-tests |
-| Research | One company at a time, starting in Taraz |
-| Web | Physics lab, plain HTML / CSS / JS |
-| Mobile | A small Kotlin greeting app |
+| [SynAi](https://github.com/1-Qube/SynAi) | Document reader. TypeScript. |
+| [innovative-ai](https://github.com/1-Qube/innovative-ai) | Stress-test a startup idea before it becomes a slide. |
+| [trendpilot](https://github.com/1-Qube/trendpilot) | Company research, scoped to Taraz. |
+| [trendpilot_](https://github.com/1-Qube/trendpilot_) | Same habit, one company at a time. |
+| [mathweb](https://github.com/1-Qube/mathweb) | Physics in the browser: lessons, formulas, a quiz. |
+| [Have-a-lucky-day-](https://github.com/1-Qube/Have-a-lucky-day-) | Kotlin greeting app. The name is the product. |
 
-## Featured projects
+Languages that actually show up: HTML, JavaScript, TypeScript, a little Python, Kotlin.
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [SynAi](https://github.com/1-Qube/SynAi) | AI-powered document reader and analyzer | TypeScript |
-| [innovative-ai](https://github.com/1-Qube/innovative-ai) | SYNA startup idea stress lab | HTML |
-| [trendpilot](https://github.com/1-Qube/trendpilot) | Live research agent for local companies in Taraz | HTML |
-| [trendpilot_](https://github.com/1-Qube/trendpilot_) | Research app for one company at a time | HTML |
-| [mathweb](https://github.com/1-Qube/mathweb) | Browser physics lab: lessons, calculators, formulas, quiz | HTML · JavaScript |
-| [Have-a-lucky-day-](https://github.com/1-Qube/Have-a-lucky-day-) | A small app that wishes you a good day | Kotlin |
+## Lately
 
-## Stack in public
-
-<p align="center">
-  <img src="assets/skills.png" alt="Public language mix: HTML, JavaScript, TypeScript, Python, Kotlin" width="100%" />
-</p>
-
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1-Qube&show_icons=true&hide_border=true&bg_color=0b1018&title_color=f4f7fc&icon_color=ff6a2b&text_color=c5d0e0&ring_color=5ee7ff" alt="GitHub stats for 1-Qube" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1-Qube&hide_border=true&background=0B1018&ring=ff6a2b&fire=ff6a2b&currStreakNum=f4f7fc&currStreakLabel=c5d0e0&sideLabels=8b97a8&dates=8b97a8&stroke=5ee7ff" alt="GitHub contribution streak for 1-Qube" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1-Qube&bg_color=0b1018&color=d7deea&line=5ee7ff&point=ff6a2b&area=true&hide_border=true" alt="Contribution activity graph for 1-Qube" width="100%" />
-</p>
-
-## Contact
-
-Open to useful builds, ambitious products, and teams who care about the work.
-
-<p align="center">
-  <a href="https://github.com/1-Qube?tab=repositories">Repositories</a>
-  ·
-  <a href="https://1-qube.github.io/1-Qube/">Interactive profile</a>
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1-Qube&bg_color=0d1117&color=e7e1d6&line=e25b2a&point=e7e1d6&area=false&hide_border=true&radius=0" alt="Recent contribution graph" width="100%" />
 </p>
