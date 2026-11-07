@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>Frontend / full-stack student building in public</strong><br />
-  AI tools, research apps, and small sites that run in the browser.<br /><br />
+  <strong>snowden · student</strong><br />
+  A few repos that run: a document reader, Taraz company notes, a physics lab in the browser.<br /><br />
   <a href="https://1-qube.github.io/1-Qube/">Interactive profile</a>
   ·
   <a href="https://github.com/1-Qube">GitHub</a>
@@ -16,7 +16,7 @@
 
 ## Focus
 
-Student shipping in public. The work is document readers, idea stress-tests, local company research, and plain browser experiments.
+Homework that turned into a repo. I am a student; the interesting files are a document reader, a narrow research app for Taraz, and a physics page I actually use.
 
 | Area | Now |
 | --- | --- |
