@@ -1,115 +1,88 @@
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · 1-qube</sub></p>
-<h1>snowden</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>student</p>
-<p><strong>● Building and sharing work in public</strong></p>
-
-<p><a href="https://github.com/1-qube">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/271260057?u=575b31169f6e88ef46fba69f7dbff676dbb19a5c&amp;v=4" width="180" alt="snowden GitHub avatar" />
-</td>
-</tr>
-</table>
-</div>
-
-<h2>What teams can evaluate quickly</h2>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · HTML · JavaScript · TypeScript</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>6 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>31 contributions · 8 active days</p></td>
-</tr>
-</table>
-
-<p><sub>student</sub></p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>6</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>31</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
-
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=1-qube&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271260057%3Fu%3D575b31169f6e88ef46fba69f7dbff676dbb19a5c%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=1-qube&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271260057%3Fu%3D575b31169f6e88ef46fba69f7dbff676dbb19a5c%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="snowden GitHub proof metrics" />
-</picture>
+  <img src="assets/hero.png" alt="snowden — hello, world" width="100%" />
 </p>
 
-<h2>Selected work</h2>
+<p align="center">
+  <strong>Frontend or full-stack engineer</strong> · the public internet<br />
+  student<br /><br />
+  <a href="https://github.com/1-Qube">GitHub</a>
+</p>
 
-<table width="100%">
+## What moves the work
+
+Student building in public. The interesting pieces are AI tools, research apps, and small sites that actually run in the browser.
+
+| Focus | Right now |
+| --- | --- |
+| AI tools | Document reading, idea stress-tests |
+| Research | One company at a time, starting in Taraz |
+| Web | Physics lab, plain HTML / CSS / JS |
+| Mobile | A small Kotlin greeting app |
+
+## The tools behind the signal
+
+<p align="center">
+  <img src="assets/skills.png" alt="Public language mix: HTML, JavaScript, TypeScript, Python, Kotlin" width="100%" />
+</p>
+
+## Built, shipped, shared
+
+<table>
 <tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=1-qube&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271260057%3Fu%3D575b31169f6e88ef46fba69f7dbff676dbb19a5c%26v%3D4&repos=1-qube%2Fmathweb%2C1-qube%2Finnovative-ai%2C1-qube%2FSynAi%2C1-qube%2Ftrendpilot_&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=1-qube&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271260057%3Fu%3D575b31169f6e88ef46fba69f7dbff676dbb19a5c%26v%3D4&repos=1-qube%2Fmathweb%2C1-qube%2Finnovative-ai%2C1-qube%2FSynAi%2C1-qube%2Ftrendpilot_&v=recruiter-projects-1&mode=dark" width="100%" alt="snowden selected projects" />
-</picture>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/1-Qube/SynAi">SynAi</a></h3>
+<p>AI-powered document reader and analyzer.</p>
+<sub>TypeScript</sub>
 </td>
-<td width="42%" valign="top">
+<td width="50%" valign="top">
+<h3><a href="https://github.com/1-Qube/innovative-ai">innovative-ai</a></h3>
+<p>SYNA startup idea stress lab.</p>
+<sub>HTML</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/1-Qube/trendpilot">trendpilot</a></h3>
+<p>Live research agent for local companies in Taraz.</p>
+<sub>HTML</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/1-Qube/trendpilot_">trendpilot_</a></h3>
+<p>Research app for one company at a time.</p>
+<sub>HTML</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h3><a href="https://github.com/1-Qube/mathweb">mathweb</a></h3>
-<p>A selected public project.</p>
-<p><sub>HTML · ⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/1-Qube/mathweb">Read the repository →</a></p>
+<p>Browser physics lab: lessons, calculators, formula reference, and a quiz.</p>
+<sub>HTML · JavaScript</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/1-Qube/Have-a-lucky-day-">Have-a-lucky-day-</a></h3>
+<p>A small app that wishes you a good day.</p>
+<sub>Kotlin</sub>
 </td>
 </tr>
 </table>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/1-Qube/innovative-ai">innovative-ai</a></h3><p>SYNA startup idea stress lab</p><p><sub>HTML · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/1-Qube/SynAi">SynAi</a></h3><p>SYNA is an AI-powered document reader and analyzer</p><p><sub>TypeScript · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/1-Qube/trendpilot_">trendpilot_</a></h3><p>TrendPilot_ research app for one company at a time.</p><p><sub>HTML · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
+## Momentum, made visible
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=1-qube&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271260057%3Fu%3D575b31169f6e88ef46fba69f7dbff676dbb19a5c%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=1-qube&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271260057%3Fu%3D575b31169f6e88ef46fba69f7dbff676dbb19a5c%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="snowden technology stack" />
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=1-Qube&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1018&title_color=f4f7fc&icon_color=ff7a40&text_color=c5d0e0&ring_color=7c5cff" alt="GitHub stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1-Qube&theme=tokyonight&hide_border=true&background=0B1018&ring=ff7a40&fire=ff7a40&currStreakLabel=c5d0e0&sideLabels=8b97a8&dates=8b97a8" alt="GitHub streak" width="49%" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>85% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>6% of public code</sub></td>
-<td width="20%" align="center"><strong>TypeScript</strong><br /><sub>4% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>Kotlin</strong><br /><sub>3% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
+## The trail behind the work
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=1-qube&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271260057%3Fu%3D575b31169f6e88ef46fba69f7dbff676dbb19a5c%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=1-qube&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F271260057%3Fu%3D575b31169f6e88ef46fba69f7dbff676dbb19a5c%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="snowden contribution activity" />
-</picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1-Qube&bg_color=0b1018&color=d7deea&line=7c5cff&point=ff7a40&area=true&hide_border=true" alt="Contribution graph" width="100%" />
 </p>
 
-<hr />
+## Make something worth noticing
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/1-qube">GitHub</a></td>
-</tr>
-</table>
+Open to useful builds, ambitious products, and teams who care about the work.
 
-<p align="center"><sub>snowden · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+  <a href="https://github.com/1-Qube?tab=repositories">See the repositories</a>
+</p>
